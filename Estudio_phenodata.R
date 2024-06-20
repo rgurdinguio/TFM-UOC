@@ -1,3 +1,11 @@
+#######################################################################
+# PROJECT: Non-functioning Pituitary Macroadenomas
+#######################################################################
+### Script for the analysis Macroadenomas phenodata
+### 
+### Author: Rocío G. Urdinguio
+########################################################################
+
 # Set up the path for the project:
 getwd()
 # If we are in "scr" folder, move up a folder by running:

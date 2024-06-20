@@ -1,11 +1,13 @@
-### PARTIMOS DEL SCRIPT 02_Script_sva_limma_model_selection.R
-### Después de comparar los distintos métodos para corregir con 
-### SVAs, dedicimos utilizar el último script de Ramón (que 
-### tiene exactamente los mismos resultados que el de Gustavo). 
-
-### Vamos a tomar un p-valor NO ajustado de 0.05 (a partir del 
-### apartado "GET DMPs") y diff de bVals > 0.20 para mirar las 
-### distintas comparaciones de grupos.
+#############################################################################
+### PROJECT: Hypophysis Macroadenomas
+###
+###
+### Script for the analysis of Methylation array data (850K)
+###          
+###
+### Author: Rocio G. Urdinguio 
+###         
+#############################################################################
 
 ###################################################################
 #####                     PREPARING DATA                      #####

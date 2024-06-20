@@ -1,10 +1,13 @@
-#############################################################################
-###
+#######################################################################
+# PROJECT: Non-functioning Pituitary Macroadenomas
+#######################################################################
+### Script for the analysis of Methylation array V2 data (EPICv2 935K)
+### 
 ### Script for the loading, filtering and semi-exploratory analysis of 
-### Methylation array data (850K V2) (based on sesame)        
+### Methylation array data (935k v2) (based on SeSaMe)        
 ###
 ### Author: Rocío G. Urdinguio
-#############################################################################
+########################################################################
 
 ###################################################################
 # Libraries

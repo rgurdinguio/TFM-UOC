@@ -1,3 +1,14 @@
+#############################################################################
+### PROJECT: Hypophysis Macroadenomas
+###
+###
+### Script for the analysis of Methylation array data (850K)
+###          
+###
+### Author: Rocio G. Urdinguio 
+###         
+#############################################################################
+
 ### Annotate CpG sites from EPIC array:
 
 library(IlluminaHumanMethylationEPICanno.ilm10b2.hg19)
